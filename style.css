@@ -1,0 +1,33 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.container-fluid2{
+    width: 100%;
+    background-color: white;
+}
+
+.img-container{
+    background-color: white;
+}
+
+h1{
+    font-size: 3rem;
+    padding: 2rem;
+    text-align: center;
+}
+
+
+.caption{
+    font-size: 2rem;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50% );
+    text-align: center;
+}
+
+.thunbail:hover{
+    transform: translateY(-4px);
+}
+
